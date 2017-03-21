@@ -11,6 +11,7 @@ parser.on('atom', atom => {
     seq = seq.substring(seq.length - 2, seq.length);
     console.log(`${seq}. |${new Array(atom._level * 3).join('-')}${atom.type}(size:${atom.size}, pos:${atom._pos})`);
 });
+parser.start();
 ```
 Output:  
 ```
