@@ -1,0 +1,24 @@
+{
+  "name": "mp4parser",
+  "version": "1.0.0",
+  "description": "parse mp4 format stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bartmao/mp4parser.git"
+  },
+  "keywords": [
+    "mp4",
+    "stream",
+    "parser"
+  ],
+  "author": "bart.mao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bartmao/mp4parser/issues"
+  },
+  "homepage": "https://github.com/bartmao/mp4parser#readme"
+}
