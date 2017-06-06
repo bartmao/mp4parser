@@ -41,3 +41,6 @@ parser.start();
 ```
 Add `data_` before any atom type name whenever you want to get its data out. 
 
+## NPM Repo:
+
+https://www.npmjs.com/package/mp4parser
